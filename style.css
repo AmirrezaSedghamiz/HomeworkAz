@@ -66,3 +66,9 @@ img:hover {
   cursor: pointer;
   color: #2e2e2e;
 }
+pre {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+  color: azure;
+  text-shadow: 2px 2px 5px black;
+}
