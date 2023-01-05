@@ -72,3 +72,9 @@ pre {
   color: azure;
   text-shadow: 2px 2px 5px black;
 }
+
+input {
+  margin-top: auto;
+  margin-left: 12px;
+  width: 250px;
+}
