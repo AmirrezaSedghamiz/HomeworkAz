@@ -78,3 +78,19 @@ input {
   margin-left: 12px;
   width: 250px;
 }
+ul {
+  display: block;
+}
+li {
+  display: inline-block;
+  margin-left: 12px;
+}
+button {
+  border-color: #ffffff;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+button:hover {
+  border-color: #bebebe;
+}
